@@ -83,11 +83,11 @@ Compiled insights, charts, and business recommendations.
 
 Delivered a professional Power BI Report summarizing findings and conclusions.
 
-# 📈 Dashboard Preview
+# 📈 Dashboard Preview - <a href="https://app.powerbi.com/groups/me/reports/ea419859-2adc-432f-ac48-141e144a69d3/6f83cf68cf75b6cca74a?experience=power-bi">Power BI Service Link</a>
 
 # 📁 File: Customer Behavior.pbix
 The Power BI dashboard provides an interactive and visual summary of customer purchasing trends and KPIs for business insights.
-Dashboard Link - <a href="https://app.powerbi.com/groups/me/reports/ea419859-2adc-432f-ac48-141e144a69d3/6f83cf68cf75b6cca74a?experience=power-bi">Power BI Service</a>
+
 
 # 📊 Results & Key Insights
 
